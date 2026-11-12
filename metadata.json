@@ -1,0 +1,6 @@
+{
+  "name": "AgriNova — Precision Agriculture & Marketplace Platform",
+  "description": "Precision-agriculture platform featuring real-time soil telemetry and micro-climate alerts for 500 farmers, an AI crop doctor for diagnostics and crop recommendations, and a direct farmer-to-buyer marketplace with 200 active transactions on Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
